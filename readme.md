@@ -12,8 +12,7 @@ Welcome back!
 ## Build Guides
 
 * [App. Descriptor](docs/app-descriptor.md)
-* [App. Certificate](docs/app-certificate.md)
-* [Exporting App](docs/export.md)
+* [Packaging App](docs/packaging.md)
 
 ## Asset Guides
 
