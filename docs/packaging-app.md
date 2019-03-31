@@ -6,7 +6,7 @@
 
 # Self-Signed Certificate
 
-If you can't afford a certificate for your app, you can generate a limited one:
+You can generate a limited certiticate for your app like follows:
 
 ```sh
 $ adt -certificate -cn SelfSign -ou QE -o "Sample" -c US 2048-RSA <file>.p12 <password>

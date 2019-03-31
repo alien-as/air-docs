@@ -12,7 +12,7 @@ Welcome back!
 ## Build Guides
 
 * [App. Descriptor](docs/app-descriptor.md)
-* [Packaging App](docs/packaging.md)
+* [Packaging App](docs/packaging-app.md)
 
 ## Asset Guides
 
