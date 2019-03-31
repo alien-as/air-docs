@@ -2,25 +2,27 @@
 
 Welcome back!
 
-* [Build Configuration](#build-configuration)
-* [Assets](#assets)
-* [Memory](#memory)
-* [Debugging](#debugging)
+> This is a WiP. re-write of Adobe AIR guides.
 
-## Build Configuration
+* [Build Guides](#build-guides)
+* [Asset Guides](#asset-guides)
+* [Memory Guides](#memory-guides)
+* [Debug Guides](#debug-guides)
+
+## Build Guides
 
 * [App. Descriptor](docs/app-descriptor.md)
 * [App. Certificate](docs/app-certificate.md)
-* [Packaging](docs/packaging.md)
+* [Exporting App](docs/export.md)
 
-## Assets
+## Asset Guides
 
 * [Static Assets](#static-assets)
 
-## Memory
+## Memory Guides
 
 * [Domain Bytes](docs/domain-bytes.md)
 
-## Debugging
+## Debug Guides
 
 Empty!

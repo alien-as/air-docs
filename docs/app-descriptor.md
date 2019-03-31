@@ -1,5 +1,12 @@
 <h1>App. Descriptor</h1>
 
+> **Note:**
+> Still incomplete. For now prefer:
+>
+> * [AIR application descriptor files](https://help.adobe.com/en_US/air/build/WS5b3ccc516d4fbf351e63e3d118666ade46-7ff1.html)
+> * [The application descriptor file structure](https://help.adobe.com/en_US/air/build/WS5b3ccc516d4fbf351e63e3d118666ade46-7f84.html)
+> * [AIR application descriptor elements](https://help.adobe.com/en_US/air/build/WSfffb011ac560372f2fea1812938a6e463-8000.html)
+
 * [Template](#template)
 * [Schema](#schema)
   * [Locale Strings](#locale-strings)
@@ -72,7 +79,9 @@ _Under `<application/>`..._
 
 * **Constraint pattern:** `(?x) [ A-Z a-z 0-9 . \- ]`.
 
-#### \<el>XXX\</el>
+#### \<versionNumber/> and \<versionLabel/>
+
+
 
 
 #### \<el>XXX\</el>
