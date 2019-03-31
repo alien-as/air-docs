@@ -60,9 +60,7 @@ _Under `<application/>`..._
 
 `<filename/>` represents installation folder name or executable name.
 
-**Constraint pattern:** `(?x) [  \x00-\x1F \*  \"  \:v \>  \<  \?  \\  \|  ]`. No trailling dot allowed.
-
-**Required.**
+* **Constraint pattern:** `(?x) [  \x00-\x1F \*  \"  \:v \>  \<  \?  \\  \|  ]`. No trailling dot allowed.
 
 #### \<name>Conventional Name\</name>
 
@@ -70,7 +68,9 @@ _Under `<application/>`..._
 
 #### \<id>vendor.app\</id>
 
-Constraint pattern: `(?x) [ A-Z a-z 0-9 . \- ]`.
+* **Required.**
+
+* **Constraint pattern:** `(?x) [ A-Z a-z 0-9 . \- ]`.
 
 #### \<el>XXX\</el>
 
