@@ -56,13 +56,41 @@ The `xml:lang` attribute is a language code (as per [RFC-4646](https://www.ietf.
 
 _Under `<application/>`..._
 
-### \<filename>filename\</filename>
+#### \<filename>filename\</filename>
 
 `<filename/>` represents installation folder name or executable name.
 
-### \<name>Conventional Name\</name>
+**Constraint pattern:** `(?x) [  \x00-\x1F \*  \"  \:v \>  \<  \?  \\  \|  ]`. No trailling dot allowed.
+
+**Required.**
+
+#### \<name>Conventional Name\</name>
 
 `<name/>` accepts [locale strings](#locale-strings).
+
+#### \<id>vendor.app\</id>
+
+Constraint pattern: `(?x) [ A-Z a-z 0-9 . \- ]`.
+
+#### \<el>XXX\</el>
+
+
+#### \<el>XXX\</el>
+
+
+#### \<el>XXX\</el>
+
+
+#### \<el>XXX\</el>
+
+
+#### \<el>XXX\</el>
+
+
+#### \<el>XXX\</el>
+
+
+#### \<el>XXX\</el>
 
 
 
